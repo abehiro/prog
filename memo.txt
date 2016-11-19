@@ -18,6 +18,8 @@
 
 これでおけなはず。
 
-
+＜更新＞
+1. git commit -am "comment"
+2. git push -u origin master
 
 
