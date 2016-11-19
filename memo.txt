@@ -1,6 +1,23 @@
-Hello.
+
+＜Git使い始め＞
+
 
 ・Git入門：http://www.backlog.jp/git-guide/intro/intro2_4.html
 ・Gitコマンド：https://mag.osdn.jp/09/03/16/0831212
+
+- 2016/11/19 memo
+1. Githubでリポジトリ作成
+2. ローカルで git init
+3. git ad file
+4. git commit -m "comment"
+5. git status
+6. git remote add origin https://github.com/username/dir
+7. git fetch (リモートにREADMEができてるかも)（vi でセーブ）
+8. git status
+9. git push -u origin master
+
+これでおけなはず。
+
+
 
 
