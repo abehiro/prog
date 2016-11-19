@@ -1,2 +1,2 @@
 # prog
-My programas
+My programs.
