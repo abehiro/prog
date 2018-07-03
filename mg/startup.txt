@@ -1,0 +1,173 @@
+
+<Scenerio for the Startup>
+
+Initial: 2018/07/03
+Update:  2018/07/03
+
+
+1. What do you want to change in this world?
+--------------------------------------------------------------------------------
+- I will change on the Software and System development domain by using Software development tool.
+  ( I can do everything special through the tool. )
+  -> This is the Core technology of the company.
+  -> Full private company. Controlled by myself.
+
+
+--- What do you want to do through the tool? ---
+
+--- Technology(IT devices) --- 
+  - Showcase application. Which is outstanding, excellent, complicated, but high quality, stable and developed quickly.
+   - Ring which can easily input text and can control smartphone and computer.
+  - Create my custom seach engine.
+  - File handling application. Easy to use. Easily find.. Easily summarize, and FUN.
+  - No Passowrd authentication method.
+  - Special operating system and gui which provide us a special experience.
+  - Safety network storage in the cloud area.
+  - Helicopter game
+  - Todo application
+  - Mailer
+  - Scheudle 
+  - Text editor
+  - iPad (Tablet) solution. Something fun!
+  --- Software development ---
+  - Software testing automation
+  - Programming automation
+  - Code analysis
+  - Refactoring
+  - Automobile designing tool including software and hardware.
+
+--- Financial --- 
+ - Stabilize and utilize block chain currencies
+ - Automatic trading system
+ - Provide liquidity to money
+ - Energy trading system
+ - Tax return automation software
+ - Clearing solution
+ - Cashless solution
+
+--- Energy ---
+ - Advanced energy solution. Enough 
+ - Power supply company. That provide energy with low cost.
+ - Nuclear power plant which will never explode
+ - Power storage solution
+
+--- Life ---
+  - Trading everything. Reuse everything useful. Low stress on the earth. Ecological.
+  - Delivery solution by drones
+
+--- Estate ---
+ - Estate and property finding software.
+
+--- Ecology ---
+ - Local Activation
+ - Reduce garbage
+ - Low energy society
+
+--- Health ---
+ - Sight training 
+ - Useful (and no monetize_) Health information site. No fishy site.
+ - Develop elderly care robot
+
+--- Entertainment ---
+- Open the bar which everybody can enjoy.
+- Build a skate rink
+- Found an ice hockey team.
+- Create a plane which can fly by a standard people.
+
+
+
+2. Business plan
+--------------------------------------------------------------------------------
+Provide the software to developers.
+Consulting clients' development
+Provide effective programming solution with consulting, testing, analyzing the current system.
+* Need core application!!!
+- Find and cooperate with big client.
+
+
+
+3. How do you realize it?
+--------------------------------------------------------------------------------
+Produce the tool and develop the software which also change the world.
+By doing it, 
+
+Create very easy application with the tool.
+Developing the tool with a sample appliction.
+  - Pickup somthing and develop with it.
+
+
+4. Schedule
+--------------------------------------------------------------------------------
+July      
+August    
+September 
+*** Target: basement of the tool. Sample application.
+            (Class, Structure, Statement, auto code generation, runtime)
+
+* In worst case, Design with the manual drawing. It will be helpfull thought.
+
+
+--- July ---
+  4 weeks
+- Sample programming
+  - Build and Run on the Mac
+- All application Image
+  - Sample application
+  - Tool
+- Building archtecture
+- Start building
+- Create mock up image
+  - Mock up of the sample application
+  - GUI design of the tool.
+- Simple Sample Application
+- Overall image from design to code generation and build
+
+--- August ---
+  4 weeks
+- Build half of all 
+- Basement of the tool
+  - Class diagram
+  - Structure diagram
+  - State diagram
+  - Code Generation
+
+--- September ---
+  4 weeks
+- Do! Do! Do!
+- Test
+- Complete.
+- Plan for the next phase
+
+
+5. Need to be change. Make a habit
+--------------------------------------------------------------------------------
+- Share the time to do.
+- How do I work in weekend.
+  - House cleaning, 
+  - Go out and work.
+  - Don't care the cost.
+
+
+
+１起業の決意
+２課題の明確化
+３成功への裏付け
+４人の協力・共感
+５ボトルネック
+６リスク
+
+＜エグゼクティブサマリー＞
+
+
+＜事業計画書＞
+１事業概況、市場環境と経営戦略、アクションプラン
+
+・会社概要、開業目的、経営理念とビジョン、ビジネスモデル、事業の課題
+
+＜アクションプラン＞
+１販売計画
+２仕入・生産計画
+３人員計画
+４資金調達計画
+５収支計画
+６スケジュール
